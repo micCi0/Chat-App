@@ -1,0 +1,13 @@
+
+
+Hi there! In this video, we'll be building a simple chat application using Express.js.
+You'll learn the basics of WebSockets, handling connections, and more.
+
+Before we dive into creating this chat masterpiece, please make sure you have 
+the following packages installed:
+
+WebSockets: npm install ws
+HTTP: npm install http
+Note: This application is not secure. Anyone with access to the URL will be able to see all messages sent to the server.
+
+If you have any questions or need further clarification, feel free to ask in the comments!
